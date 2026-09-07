@@ -1,0 +1,9 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+backups/*.db
+.streamlit/
+WorkPay.zip
